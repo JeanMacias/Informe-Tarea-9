@@ -4,13 +4,25 @@
 
 ### **OBJETIVO GENERAL***
 
+Desarrollar un análisis critico a la hora de disponer de un circuito RL o RC que cuenta con resonancias en series o paralelo para mejorar la comprensión de un circuito que tenga alguna similitud con lo nombre anteriormente
+
 ### **OBJETIVOS ESPECÍFICOS**
 
-*
+* Analizar conceptos básicos de los temas circuitos RCL y resonancia, así como, Filtros pasivos, correspondientes al capítulo 17 y 18 del libro de Floyd.
 
-*
+* Analizar circuitos RLC en serie y resonancia en serie
+
+* Analizar circuitos RLC en paralelo y resonancia en paralelo
 
 # **MARCO TEÓRICO**
+
+![image](https://user-images.githubusercontent.com/116774235/221874881-59622be0-5e85-45da-82b0-83267e3342f6.png)
+
+![image](https://user-images.githubusercontent.com/116774235/221874903-4e9e89a7-fd71-4ce5-a9a3-e425e4e334ca.png)
+
+![image](https://user-images.githubusercontent.com/116774235/221874932-9f4eee6d-f93a-4109-b8c4-9b4c6244d5a2.png)
+
+![image](https://user-images.githubusercontent.com/116774235/221874968-43ea97a6-cd71-42cf-863e-8b1de5724529.png)
 
 # **EXPLICACIÓN O RESOLUCIÓN DE EJERCICIOS**
 
@@ -534,20 +546,17 @@ V(ent) = 25V ; V(sal) = 5V
 
 # **CONCLUSIONES**
 
-*
+* Se analizó que los circuitos que tienen tanto inductancia como capacitancia exhiben la propiedad de resonancia, la cual es importante en muchos tipos de aplicaciones. La resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones.
 
-*
+* La capacidad de un receptor de radio o de televisión para seleccionar cierta frecuencia transmitida por una estación particular y, al mismo tiempo, eliminar las frecuencias de otras estaciones está basada en el principio de resonancia. En este capítulo se abordan las condiciones que producen resonancia en circuitos RLC y las características de los circuitos resonantes.
 
-*
+* Los filtros pasabajas permiten el paso de una banda de frecuencias que va desde CD hasta una cierta frecuencia mientras que los filtros pasaaltas permiten el paso de frecuencias mayores que una frecuencia baja (FL).
 
 # **BIBLIOGRAFÍA**
 
 * Floyd, TL (2007). Principios de circuitos electricos. Monterrey: Pearson Educación.
 
 * Reyes, L. G. (22 de noviembre de 2007). https://lc.fie.umich.mx. Obtenido de https://lc.fie.umich.mx/~jfelix/InstruII/PB/PB.htm
-
-
-
 
 
 
