@@ -1,5 +1,9 @@
 # Informe-Tarea-9
 
+**NOMBRE:** JEAN MACIAS
+
+**NRC:** 10063
+
 # **OBJETIVOS**
 
 ### **OBJETIVO GENERAL**
